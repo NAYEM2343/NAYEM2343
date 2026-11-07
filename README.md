@@ -49,54 +49,30 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>⚡ Algorithmic Problem Solving</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Codeforces-0a192f?style=flat-square&logo=codeforces&logoColor=38bdf8" alt="Codeforces" />
-        <img src="https://img.shields.io/badge/LeetCode-0a192f?style=flat-square&logo=leetcode&logoColor=38bdf8" alt="LeetCode" />
-        <img src="https://img.shields.io/badge/C%2B%2B_STL-Fast_I%2FO-0284c7?style=flat-square" alt="C++ Fast I/O" />
-      </p>
-      <ul>
-        <li>Designing time- and space-optimal solutions using <b>C++</b> and the Standard Template Library (STL).</li>
-        <li>Focusing on data structures, graph algorithms, dynamic programming, and string manipulation on <b>Codeforces</b> and <b>LeetCode</b>.</li>
-      </ul>
+      <img src="https://img.shields.io/badge/Codeforces-0a192f?style=for-the-badge&logo=codeforces&logoColor=38bdf8" alt="Codeforces" />
+      <img src="https://img.shields.io/badge/LeetCode-0a192f?style=for-the-badge&logo=leetcode&logoColor=38bdf8" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/C%2B%2B_STL-0284c7?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ STL" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <h3>🌐 Full-Stack & Software Architecture</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=38bdf8" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-0a192f?style=flat-square&logo=nodedotjs&logoColor=38bdf8" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MVC_Design-0284c7?style=flat-square" alt="MVC Architecture" />
-      </p>
-      <ul>
-        <li>Engineering responsive web applications and modular software architectures using <b>React, Node.js, Python (Django), and Java</b>.</li>
-        <li>Structuring relational and cloud data layers with <b>MySQL, Firebase, and Google Cloud</b>.</li>
-      </ul>
+      <img src="https://img.shields.io/badge/React-0a192f?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-0a192f?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8" alt="Node.js" />
+      <img src="https://img.shields.io/badge/MVC_Design-0284c7?style=for-the-badge" alt="MVC Design" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data Science & Local AI Execution</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python_Analytics-0a192f?style=flat-square&logo=python&logoColor=38bdf8" alt="Python" />
-        <img src="https://img.shields.io/badge/Local_LLMs-Vulkan_GPU-0284c7?style=flat-square" alt="Vulkan AI" />
-      </p>
-      <ul>
-        <li>Performing statistical analysis, feature evaluation, and data visualization with <b>NumPy, Pandas, and Matplotlib</b>.</li>
-        <li>Benchmarking and running local 7B–9B parameter language models with hardware-accelerated <b>Vulkan</b> inference.</li>
-      </ul>
+    <td width="50%" align="center" valign="middle">
+      <h3>📊 Data Science & AI Execution</h3>
+      <img src="https://img.shields.io/badge/Python_Analytics-0a192f?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python" />
+      <img src="https://img.shields.io/badge/Statistical_Models-0284c7?style=for-the-badge" alt="Statistical Models" />
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Embedded Systems & Linux Workflows</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Arduino_Uno-0a192f?style=flat-square&logo=arduino&logoColor=38bdf8" alt="Arduino" />
-        <img src="https://img.shields.io/badge/Ubuntu_Linux-0a192f?style=flat-square&logo=ubuntu&logoColor=38bdf8" alt="Ubuntu" />
-        <img src="https://img.shields.io/badge/Hardware-0284c7?style=flat-square" alt="Hardware" />
-      </p>
-      <ul>
-        <li>Building autonomous microcontroller systems with ultrasonic obstacle kinematics and <b>HC-05 Bluetooth/Voice</b> control.</li>
-        <li>Maintaining desktop and mobile Linux development environments using <b>Ubuntu containers, Termux, and code-server</b>.</li>
-      </ul>
+    <td width="50%" align="center" valign="middle">
+      <h3>🤖 Embedded Systems & Linux</h3>
+      <img src="https://img.shields.io/badge/Arduino_Uno-0a192f?style=for-the-badge&logo=arduino&logoColor=38bdf8" alt="Arduino" />
+      <img src="https://img.shields.io/badge/Ubuntu_Linux-0a192f?style=for-the-badge&logo=ubuntu&logoColor=38bdf8" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Robotics-0284c7?style=for-the-badge" alt="Robotics" />
     </td>
   </tr>
 </table>
@@ -189,10 +165,8 @@
 ## 🗓️ Contribution Matrix
 
 <div align="center">
-  <!-- DEDICATED NON-VERCEL CHART SERVER -->
-  <img width="98%" src="https://ghchart.rshah.org/0284c7/NAYEM2343" alt="Nayem's GitHub Contributions" />
-  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=NAYEM2343&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 <br/>
