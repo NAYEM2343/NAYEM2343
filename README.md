@@ -1,24 +1,55 @@
-# 💫 About Me:
- A Self-Learner<br>A Multitasker<br>A Coder<br>A Critical Thinker<br>A Philosophical Knowledge Seeker
+<div align="center">
 
+<!-- 🌊 ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050b14,50:0a192f,100:0284c7&height=200&section=header&text=Md.%20Nayem%20Sheikh&fontSize=50&fontColor=e2e8f0&fontAlignY=35&desc=CSE%20Undergraduate%20%7C%20Competitive%20Programmer%20%7C%20Systems%20Builder&descAlignY=58&descSize=18&animation=fadeIn" alt="Header Banner" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WGskFevzGb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nayem.0.0.Sheikh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nayemsheikh0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-nayem-sheikh-66891b29a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nayemsheikh822@gmail.com) 
+<!-- ⌨️ ANIMATED MONOSPACE TYPING SVG -->
+<a href="https://github.com/NAYEM2343">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%3E+A+Self-Learner+%26+Critical+Thinker;%3E+Competitive+Programmer+(C%2B%2B+%7C+Codeforces+%7C+LeetCode);%3E+Full-Stack+Web%2C+Desktop+%26+Embedded+Systems+Developer;%3E+A+Multitasker+%26+Philosophical+Knowledge+Seeker" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NAYEM2343&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NAYEM2343&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NAYEM2343&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NAYEM2343&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- 🌐 SOCIAL & PROFILE BADGES -->
+[![Discord](https://img.shields.io/badge/Discord-0a192f?style=for-the-badge&logo=discord&logoColor=38bdf8)](https://discord.gg/WGskFevzGb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/md-nayem-sheikh-66891b29a)
+[![Facebook](https://img.shields.io/badge/Facebook-0a192f?style=for-the-badge&logo=facebook&logoColor=38bdf8)](https://facebook.com/nayem.0.0.Sheikh)
+[![Instagram](https://img.shields.io/badge/Instagram-0a192f?style=for-the-badge&logo=instagram&logoColor=38bdf8)](https://instagram.com/nayemsheikh0)
+[![Email](https://img.shields.io/badge/Email-0a192f?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:nayemsheikh822@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=NAYEM2343&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NAYEM2343&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
+## ⚡ `whoami` // System Architecture
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
+class Developer {
+public:
+    std::string name       = "Md. Nayem Sheikh";
+    std::string handle     = "NAYEM2343";
+    std::string education  = "B.Sc. in Computer Science & Engineering @ Southeast University";
+    std::string location   = "Dhaka, Bangladesh";
+
+    std::vector<std::string> core_traits = {
+        "Self-Learner", "Multitasker", "Coder", 
+        "Critical Thinker", "Philosophical Knowledge Seeker"
+    };
+
+    std::vector<std::string> current_focus = {
+        "Algorithmic Problem Solving (C++ / Fast I/O)",
+        "Enterprise Web & MVC Desktop Architecture (React, Node.js, Java Swing)",
+        "Embedded Robotics & Local AI Execution"
+    };
+
+    void execute() {
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(NULL);
+        std::cout << "Building clean, scalable, and high-performance systems.\n";
+    }
+};
